@@ -50,6 +50,26 @@ div h2 {
     font-size: 20px;
 }
 
+
+.artigo , .sobre-mim {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.artigo {
+    float: left;
+    width: 40%;
+    padding-left: 20px;
+}
+
+.sobre-mim {
+    float: right;
+    width: 40%;
+    padding-right: 20px;
+}
+
+
 #rodape {
-    padding-bottom: 10px;
+    padding-top: 280px;
+    padding-bottom: 20px;
 }
