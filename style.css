@@ -9,4 +9,16 @@
 
 #titulo{
     color: white;
+    text-align: center;
+}
+
+#minha_foto{
+    width: 200px;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-radius: 10px 10px;
+}
+
+#licoes_a_aprender{
+    text-align: center;
 }
