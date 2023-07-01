@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/betrybe/sd-0x-project-lessons-learned#readme",
   "devDependencies": {
-    "cypress": "^12.12.0",
+    "cypress": "^12.16.0",
     "cypress-multi-reporters": "^1.6.3",
     "mocha": "^10.2.0",
     "mochawesome": "^7.1.3",
