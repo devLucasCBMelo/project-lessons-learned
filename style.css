@@ -1,14 +1,16 @@
 *{
-    margin: 10px;
-    padding: 0;
+    background-color: rgb(253, 251, 251);
 }
 
 #cabecalho{
-    background-color: green;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 #titulo{
+    padding-top: 0px;
     color: white;
+    background-color: green;
     text-align: center;
 }
 
@@ -21,4 +23,21 @@
 
 #licoes_aprendidas{
     text-align:left;
+    color: blue;
+    margin: auto;
+}
+
+#licoes_a_aprender{
+    color: red;
+    text-align: left;
+    margin: auto;
+}
+
+#licoes_aprendidas .licoes_a_aprender{
+    display: flex;
+}
+
+div h2{
+    background-color: green;
+    color: white;
 }
