@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 10px;
     padding: 0;
 }
 
@@ -13,12 +13,12 @@
 }
 
 #minha_foto{
-    width: 200px;
+    width: 150px;
     padding-top: 15px;
     padding-left: 10px;
     border-radius: 10px 10px;
 }
 
-#licoes_a_aprender{
-    text-align: center;
+#licoes_aprendidas{
+    text-align:left;
 }
