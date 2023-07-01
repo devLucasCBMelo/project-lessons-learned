@@ -5,17 +5,20 @@
 
 #cabecalho {
    top: 0;
+   position: fixed;
+   
 }
 
 #titulo {
     color: white;
     background-color: green;
     text-align: center;
+    width: 2000px;
 }
 
 #minha_foto {
     width: 150px;
-    padding-top: 15px;
+    padding-top: 60px;
     padding-left: 10px;
     border-radius: 10px;
 }
@@ -82,7 +85,7 @@ div h4 {
 .tabela {
     color: red;
     background-color: black;
-    margin-top: 500px;
+    margin-top: 250px;
     margin-left: 20px;
     font-size: 10px;
 }
