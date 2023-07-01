@@ -79,8 +79,29 @@ div h4 {
 
 }
 
+.tabela {
+    color: red;
+    background-color: black;
+    margin-top: 500px;
+    margin-left: 20px;
+    font-size: 10px;
+}
+
+.tabela .cabecalho {
+    color: black;
+    font-size: 12px;
+}
+
+.corpo-tabela {
+    text-align: center;
+}
+
+.corpo-tabela td{
+    padding: 5px;
+    background-color: white;
+}
 
 #rodape {
-    padding-top: 280px;
+    padding-top: 28px;
     padding-bottom: 20px;
 }
