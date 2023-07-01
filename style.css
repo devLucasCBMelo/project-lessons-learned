@@ -27,31 +27,31 @@ body a {
     padding-left: 60px;
 }
 
-.caixinha1 {
+.lado-esquerdo {
     width: 300px;
     padding-top: 20px;
     padding-left: 10px;
     padding-bottom: 20px;
 }
 
-.caixinha1 ol , .caixinha1 li {
+.lado-esquerdo ol , .lado-esquerdo li {
     background-color: #efefef;
 }
 
-.caixinha2 {
+.lado-direito {
     width: 300px;
     padding-top: 20px;
     padding-left: 10px;
     padding-bottom: 20px;
 }
 
-.caixinha2 ul , .caixinha2 li {
+.lado-direito ul , .lado-direito li {
     background-color: #efefef;
     width: 300px;
     
 }
 
-.caixinha1, .caixinha2 {
+.lado-direito, .lado-esquerdo {
     display: inline-block;
 }
 
