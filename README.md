@@ -1,4 +1,4 @@
-# Repositório de Lissões Aprendidas
+# Projeto de Lissões Aprendidas
 
 Olá, esse é o projeto Lessons Learned (Lissões Aprendidas) que foi o primeiro projeto desenvolido enquanto estudava na Trybe.
 
